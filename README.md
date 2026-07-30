@@ -21,7 +21,7 @@ https://hh.ru/
 - 🔗 **Интеграции и API**
 
 - 🗄 **База данных и SQL**  
-- [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/ERD%20%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.png)
+  - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/ERD%20%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.png)
 - 📊 **Схемы и диаграммы**  
  
 - 🎨 **Прототипы UI**  
