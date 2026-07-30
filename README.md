@@ -26,6 +26,8 @@ https://hh.ru/
   - [SQL-запросы к БД U-Verse](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D1%82%D0%B5%D1%81%D1%82.sql)
   - [БД: Задача на создание таблицы student / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/DbTasks.pdf)
 - 📊 **Схемы и диаграммы**  
+  - [BPMN-диаграмма (Настройка профиля студента)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/BPMN_Diagrams.pdf)
+  - [BPMN-диаграмма (Подача заявки на регистрацию преподавателя в платформе)](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/BPMN_Diagram2.png)
   - [C4-модель архитектуры (draw.io)](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/C4_Architecture.png)
 - 🎨 **Прототипы UI**  
 
