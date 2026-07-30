@@ -30,7 +30,7 @@ https://hh.ru/
   - [BPMN-диаграмма (Подача заявки на регистрацию преподавателя в платформе)](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/BPMN_Diagram2.png)
   - [C4-модель архитектуры (draw.io)](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/C4_Architecture.png)
 - 🎨 **Прототипы UI**  
-
+  - [Figma](https://www.figma.com/design/dbQYknexM8cvH94F7GWhv5/U-Verse-UI-Prototypes?node-id=0-1&t=6VHYrjNVaZao84NU-1)
 - 🚀 **Мини-проекты**  
 
 **Ключевые навыки:**  
