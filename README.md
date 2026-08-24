@@ -20,7 +20,7 @@ https://hh.ru/
   - [User Stories: Регистрация преподавателя в платформе](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/UserStory.pdf)
   - [Use Case: Подача заявки на регистрацию преподавателя.](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/UseCases.pdf)
 - 🔗 **Интеграции и API**
-
+  - [Postman Workspace](https://www.postman.com/net1924zq-614731/workspace/u-verse-2026-sm-getanalyst)
 - 🗄 **База данных и SQL**  
   - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/ERD_Physical.png)
   - [Исходник СУБД SQLite проекта U-Verse](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/U-Verse)
