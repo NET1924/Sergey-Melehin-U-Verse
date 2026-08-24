@@ -17,7 +17,7 @@ https://hh.ru/
 ## Проект U-Verse  
 *Платформа онлайн-курсов для повышения квалификации взрослых: регистрация преподавателей, управление курсами, работа с отзывами, приём платежей.*  
 - 📄 **Требования**  
-  [Use Case: Подача заявки на регистрацию преподавателя.](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/UseCases.pdf)
+  - [Use Case: Подача заявки на регистрацию преподавателя.](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/UseCases.pdf)
 - 🔗 **Интеграции и API**
 
 - 🗄 **База данных и SQL**  
