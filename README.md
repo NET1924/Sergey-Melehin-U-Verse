@@ -6,7 +6,7 @@
 NDA соблюдается, документы не содержат конфиденциальных данных.
 
 **Резюме:**
-https://hh.ru/
+[https://hh.ru/](https://ryazan.hh.ru/resume/dfcd87c1ff10bcc38f0039ed1f6a4d37754a32)
 
 **Контакты:**
 ✉ net1924zq@gmail.com
