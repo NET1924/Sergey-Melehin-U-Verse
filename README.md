@@ -19,7 +19,7 @@ NDA соблюдается, документы не содержат конфи�
 - 📄 **Требования**
   - [User Stories: Регистрация преподавателя в платформе](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/UserStory.pdf)
   - [Use Case: Подача заявки на регистрацию преподавателя.](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/UseCases.pdf)
-  - [Задача на Frontend: Подача заявки на регистрацию преподавателя в платформе / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/FrontendTasks_register_as_a_teacher.pdf)
+  - [Задача на Frontend: Экран подачи заявки на регистрацию преподавателя в платформе / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/FrontendTasks_register_as_a_teacher.pdf)
 - 🔗 **Интеграции и API**
   - [Postman Workspace](https://www.postman.com/net1924zq-614731/workspace/u-verse-2026-sm-getanalyst)
   - [Задача на REST API: Получение списка заявок на роль преподавателя / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/%D0%90PItasks_teacher-applications.pdf)
