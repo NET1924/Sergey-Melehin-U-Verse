@@ -22,7 +22,8 @@ NDA соблюдается, документы не содержат конфи�
   - [Задача на Frontend: Подача заявки на регистрацию преподавателя в платформе / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/FrontendTasks_register_as_a_teacher.pdf)
 - 🔗 **Интеграции и API**
   - [Postman Workspace](https://www.postman.com/net1924zq-614731/workspace/u-verse-2026-sm-getanalyst)
-  - [Задача на REST API: Получение списка заявок на роль преподавателя / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/%D0%90PItasks_teacher-applications.pdf) 
+  - [Задача на REST API: Получение списка заявок на роль преподавателя / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/%D0%90PItasks_teacher-applications.pdf)
+  - [Задача на REST API: Загрузка файлов к заявке / Confluence](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/%D0%90PItasks_teacher-applications_files.pdf)
 - 🗄 **База данных и SQL**  
   - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/ERD_Physical.png)
   - [Исходник СУБД SQLite проекта U-Verse](https://github.com/NET1924/Sergey-Melehin-U-Verse/blob/main/U-Verse)
