@@ -9,7 +9,7 @@ NDA соблюдается, документы не содержат конфи�
 [https://hh.ru/](https://ryazan.hh.ru/resume/dfcd87c1ff10bcc38f0039ed1f6a4d37754a32)
 
 **Контакты:**
-✉ net1924zq@gmail.com
+✉ sergey.melekhin.sa@gmail.com
 📞 +7 (952) 124-22-15
 
 ---
