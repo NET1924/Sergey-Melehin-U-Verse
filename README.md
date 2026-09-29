@@ -38,4 +38,4 @@ NDA соблюдается, документы не содержат конфи�
 
 **Ключевые навыки:**  
 BPMN · UML · Системный анализ · ERD · SQL · REST API · Agile · Postman · Интеграции · Jira · Confluence
-[Telegram](https://t.me/net1924) 
+[Telegram](https://t.me/sergeysa_ba) 
